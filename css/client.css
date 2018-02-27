@@ -1,0 +1,73 @@
+.md .navbar-inner{
+  background: #000;
+  color: #ffff00;
+}
+
+.md a{
+  background: #000;
+
+}
+
+.md .toolbar a{
+  color: #ffff00;
+}
+
+.md .tabbar-labels a.tab-link.tab-link-active{
+  color: #ffff00;
+}
+
+.item-title{
+  color: #ffff00;
+}
+
+.md .links-list a{
+  color: #ffff00;
+}
+
+.md .button.button-fill{
+  background-color: #000;
+  color: #ffff00;
+}
+
+.currentExercise{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 25px;
+
+}
+
+.floating-box{
+  display: inline-block;
+  width: 350px;
+  height: 175px;
+  margin: 10px;
+  border: 3px solid #000;
+  background-color: #DCDCDC;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.grid-item{
+  padding: 10px;
+}
+
+b{
+  font-weight: 1000;
+}
+
+#leftPanelButton{
+  background-color: #ffff00;
+  color: #000;
+  margin-bottom: 2em;
+}
+
+.fa-bars{
+  color: #ffff00;
+}
+
+#stayInformedEmail{
+  color: #ffff00;
+}
