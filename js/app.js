@@ -44,7 +44,7 @@ var app  = new Framework7({
         {
           id: '6',
           title: 'Tricep Extension',
-          description: 'Standing with your torso upright holding 2 dumbbells in your hands by your sides. Step forward with right leg approximately 2 feet and lower your body down.\r\n Using the heel of your foot push up and return to starting position. Repeat this movement with your left leg.'
+          description: 'Standing with your torso upright holding 2 dumbbells in your hands by your sides. Step forward with right leg approximately 2 feet and lower your body down.\n Using the heel of your foot push up and return to starting position. Repeat this movement with your left leg.'
         },
       ]
     };

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ff16cdfe-540c-4fa9-8365-8d2b5f467fa2" name="thefittestwarriorclient" url="http://dcapps.greenrivertech.net">
+        <fileTransfer host="dcapps.greenrivertech.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
