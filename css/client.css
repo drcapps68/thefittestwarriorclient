@@ -1,36 +1,40 @@
+body{
+  background-color: #f2f2f2;
+}
+
 .md .navbar-inner{
-  background: #000;
-  color: #ffff00;
+  background: #343A40;
+  color: #fdd000;
 }
 
 .md a{
-  background: #000;
+  background: #343A40;
 
 }
 
 .md .toolbar a{
-  color: #ffff00;
+  color: #fdd000;
 }
 
 .md .tabbar-labels a.tab-link.tab-link-active{
-  color: #ffff00;
+  color: #fdd000;
 }
 
 .item-title{
-  color: #ffff00;
+  color: #fdd000;
 }
 
 .signUp-title{
-    color: #000000;
+    color: #343A40;
 }
 
 .md .links-list a{
-  color: #ffff00;
+  color: #fdd000;
 }
 
 .md .button.button-fill{
-  background-color: #000;
-  color: #ffff00;
+  background-color: #343A40;
+  color: #fdd000;
 }
 
 .currentExercise{
@@ -45,7 +49,7 @@
   width: 350px;
   height: 175px;
   margin: 10px;
-  border: 3px solid #000;
+  border: 3px solid #343A40;
   background-color: #DCDCDC;
 }
 
@@ -63,13 +67,13 @@ b{
 }
 
 #leftPanelButton{
-  background-color: #ffff00;
-  color: #000;
+  background-color: #fdd000;
+  color: #343A40;
   margin-bottom: 2em;
 }
 
 .fa-bars{
-  color: #ffff00;
+  color: #fdd000;
 }
 
 
